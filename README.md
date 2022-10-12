@@ -1,6 +1,6 @@
-- hi, i'm bissera (:
-- trying to learn python to analyse eeg data 🧠
-- love the mountains and the sea ⛰️ 🌊 
+hi, i'm bissera 
+i'm trying to learn python to analyse eeg data 🧠
+i love the mountains and the sea ⛰️ 🌊 
 
 <!---
 bisserai/bisserai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
