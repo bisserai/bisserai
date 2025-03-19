@@ -1,5 +1,5 @@
 hi, i'm bissera 
-i'm trying to learn python to analyse eeg data 🧠
+i'm trying to learn python to analyse m/eeg data 🧠
 i love the mountains and the sea ⛰️ 🌊 
 
 <!---
